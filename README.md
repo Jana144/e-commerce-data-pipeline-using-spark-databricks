@@ -1,4 +1,5 @@
 🛒 Build E-commerce Data Pipeline using Spark & Databricks
+
 📖 Project Overview
 ShopVista, a fast-growing e-commerce platform, struggled with fragmented datasets — orders, shipments, returns, and dimension data — spread across multiple sources. This led to manual reporting, inconsistent insights, and delayed decision-making.
 
