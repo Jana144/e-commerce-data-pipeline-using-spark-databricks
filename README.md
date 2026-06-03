@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28555774/README.md)
 # 🛒 **Build E-commerce Data Pipeline using Spark & Databricks**
 
 ## 📖 **Project Overview**
